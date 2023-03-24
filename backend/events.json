@@ -1,11 +1,1 @@
-{
-  "events": [
-    {
-      "id": "e1",
-      "title": "A dummy event",
-      "date": "2023-02-22",
-      "image": "https://blog.hubspot.de/hubfs/Germany/Blog_images/Optimize_Marketing%20Events%20DACH%202021.jpg",
-      "description": "Join this amazing event and connect with fellow developers."
-    }
-  ]
-}
+{"events":[{"title":"time to shake it","image":"https://s3.amazonaws.com/eventbrite-s3/marketing/landingpages/assets/photography/distribution-header-footer.jpg","date":"2023-03-30","description":"party hard","id":"8c5f66fd-a781-4eb8-a599-970b2e215ef1"},{"title":"party","image":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.eventbrite.com%2Fl%2Fevent-listing%2F&psig=AOvVaw16Ow9FHBB4-MP7V4rMGhgs&ust=1679777363231000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCLieiLq49f0CFQAAAAAdAAAAABAS","date":"2023-03-23","description":"time to shake it","id":"e39a8948-f092-4e5e-aa55-e7582072543f"},{"title":"a new event","image":"https://www.google.com/url?sa=i&url=https%3A%2F%2Ftheperfectevent.com%2F&psig=AOvVaw16Ow9FHBB4-MP7V4rMGhgs&ust=1679777363231000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCLieiLq49f0CFQAAAAAdAAAAABAE","date":"2023-03-28","description":"Time to party hard ","id":"798668b1-51c4-439c-86fb-87bd46a1bb27"},{"id":"e1","title":"A dummy event","date":"2023-02-22","image":"https://blog.hubspot.de/hubfs/Germany/Blog_images/Optimize_Marketing%20Events%20DACH%202021.jpg","description":"Join this amazing event and connect with fellow developers."}]}
